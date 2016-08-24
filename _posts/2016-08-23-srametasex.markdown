@@ -21,10 +21,10 @@ Fig 3 & fig 4: I use the number of introns on chrY and total number of introns a
 Fig 3 plots the number of introns on chrY for 2969 SRA samples for males and females based on model predicted sex.
 Fig 4 is the density plot on number of introns on chrY for 2969 SRA samples for males and females based on model predicted sex.
 
----
-Check code for this project `srametasex` on <a href="https://github.com/SiruoWang/srametasex">Github Repository</a>
-Check code for extracting metadata on SRA `srametadata` on <a href="https://github.com/SiruoWang/srametadata">Github Repository</a>
----
+----
+######Check code for this project `srametasex` on <a href="https://github.com/SiruoWang/srametasex">Github Repository</a>
+######Check code for extracting metadata on SRA `srametadata` on <a href="https://github.com/SiruoWang/srametadata">Github Repository</a>
+----
 quick installation:
 ```
 devtools::install_github("SiruoWang/srametadata")
