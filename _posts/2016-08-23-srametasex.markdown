@@ -2,7 +2,7 @@
 layout: post
 title: SRA metadata sex prediction
 ---
-<img src="/images/fulls/before prediction.png" class=""> 
+<img src="/images/fulls/before prediction.png" width="48"> 
 Figure 1
 <img src="/images/fulls/after prediction.png" class="fit image"> 
 Figure 2
