@@ -24,7 +24,7 @@ Fig 4 is the density plot on number of introns on chrY for 2969 SRA samples for 
 ----
 Check code for this project `srametasex` on <a href="https://github.com/SiruoWang/srametasex">Github Repository</a>
 
-Check code for extracting metadata on SRA `srametadata` on <a href="https://github.com/SiruoWang/srametadata">Github Repository</a>
+
 ----
 quick installation:
 ```
