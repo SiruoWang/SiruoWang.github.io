@@ -4,9 +4,9 @@ title: SRA metadata sex prediction
 ---
 <img src="/images/fulls/before prediction.png" width="300"> 
 Figure 1
-<img src="/images/fulls/after prediction.png" width="300"> 
-Figure 2
 <img src="/images/fulls/before prediction-1.png" width="300"> 
+Figure 2
+<img src="/images/fulls/after prediction.png" width="300"> 
 Figure 3
 <img src="/images/fulls/after prediction-2.png" width="300"> 
 Figure 4
