@@ -11,7 +11,7 @@ Figure 3
 <img src="/images/fulls/after prediction-2.png" width="300"> 
 Figure 4
 
-[comment]: <class = "fit image">
+
 
 Fig 1 & Fig 2: SRA contains 2969 samples which have sex labeled.
 Fig 1 plots the number of introns on chrY for 2969 SRA samples for males and females based on sex labels in SRA. I use the red box to circle the female outliers which have too many introns on chrY.
