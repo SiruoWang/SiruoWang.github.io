@@ -2,13 +2,13 @@
 layout: post
 title: SRA metadata sex prediction
 ---
-<img src="/images/fulls/before prediction.jpg" class="fit image"> 
+<img src="/images/fulls/before prediction.png" class="fit image"> 
 Figure 1
-<img src="/images/fulls/after prediction.jpg" class="fit image"> 
+<img src="/images/fulls/after prediction.png" class="fit image"> 
 Figure 2
-<img src="/images/fulls/before prediction-1.jpg" class="fit image"> 
+<img src="/images/fulls/before prediction-1.png" class="fit image"> 
 Figure 3
-<img src="/images/fulls/after prediction-2.jpg" class="fit image"> 
+<img src="/images/fulls/after prediction-2.png" class="fit image"> 
 Figure 4
 
 Fig 1 & Fig 2: SRA contains 2969 samples which have sex labeled.
